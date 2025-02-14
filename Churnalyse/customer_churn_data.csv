@@ -1,0 +1,11 @@
+CustomerID,Age,Gender,AccountType,MonthlySpending,ServiceUsed,Churn
+1,34,Male,Premium,100,Phone,Yes
+2,45,Female,Standard,50,Internet,No
+3,23,Male,Premium,120,Phone,Yes
+4,56,Female,Standard,70,Internet,No
+5,37,Male,Premium,150,Phone+Internet,Yes
+6,29,Female,Standard,60,Phone,No
+7,50,Male,Premium,110,Internet,Yes
+8,44,Female,Standard,80,Phone+Internet,No
+9,31,Male,Premium,140,Phone,Yes
+10,42,Female,Standard,55,Internet,No
